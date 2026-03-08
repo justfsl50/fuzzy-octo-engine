@@ -1,0 +1,9 @@
+{
+  "name": "ai-desktop-agent-tauri-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Initialize Tauri app here'",
+    "build": "echo 'Build Tauri app here'"
+  }
+}
