@@ -1,0 +1,1 @@
+Tauri UI source scaffold placeholder.
